@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Lista de Compras</string>
+    <string name="item_da_lista">Açaí no pote</string>
+    <string name="descricao_do_item_da_lista">Preciso comprar açaí em pote urgentemente!!! - Preciso comprar açaí em pote urgentemente!!!</string>
+    <string name="data">30/09/1964</string>
+    <string name="menu_superior">Menu colapsado superior</string>
+</resources>
