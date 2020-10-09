@@ -1,7 +1,14 @@
 <resources>
-    <string name="app_name">Lista de Compras</string>
+    <string name="app_name">Minha Lista de Compras</string>
     <string name="item_da_lista">Açaí no pote</string>
     <string name="descricao_do_item_da_lista">Preciso comprar açaí em pote urgentemente!!! - Preciso comprar açaí em pote urgentemente!!!</string>
     <string name="data">30/09/1964</string>
     <string name="menu_superior">Menu colapsado superior</string>
+    <string name="entre_com_a_sua_conta">Entre com a sua conta</string>
+    <string name="senha">Digite sua senha</string>
+    <string name="email">Digite seu email</string>
+    <string name="forgot_password">Esqueci minha senha!</string>
+    <string name="dont_have_account">Não tem uma conta?</string>
+    <string name="cadastre_se_agora">Cadastre-se agora</string>
+    <string name="button_login">Login</string>
 </resources>
