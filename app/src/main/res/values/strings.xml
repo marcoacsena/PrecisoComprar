@@ -15,4 +15,7 @@
     <string name="termos_e_condicoes">Li e aceito os termos e condições</string>
     <string name="cadastrar_agora">Cadastrar Agora</string>
     <string name="already_account">Já tem conta? Então, faça o login: </string>
+    <string name="email_and_password_incorrects">Email ou Senha vazios</string>
+    <string name="loading">Acesso em andamento</string>
+    <string name="campos_invalidos">Email ou Senha incorretos</string>
 </resources>
